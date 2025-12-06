@@ -1,0 +1,11 @@
+{
+  "name": "graphqlbe",
+  "version": "1.0.0",
+  "description": "A project to explore apollo client with graphQL , not the react query one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajneesh Upreti",
+  "license": "ISC"
+}
