@@ -1,0 +1,1020 @@
+[
+  {
+    "productId": "P001",
+    "title": "Classic Potato Chips",
+    "price": 1.99,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Crispy salted potato chips made from fresh potatoes.",
+    "proteinContent": 2,
+    "totalCalories": 150
+  },
+  {
+    "productId": "P002",
+    "title": "Salted Peanuts",
+    "price": 2.49,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Roasted peanuts lightly salted for a perfect snack.",
+    "proteinContent": 7,
+    "totalCalories": 170
+  },
+  {
+    "productId": "P003",
+    "title": "Whole Wheat Bread",
+    "price": 3.29,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Soft and healthy whole wheat bread loaf.",
+    "proteinContent": 6,
+    "totalCalories": 120
+  },
+  {
+    "productId": "P004",
+    "title": "Chocolate Chip Cookies",
+    "price": 2.99,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Crunchy cookies packed with chocolate chips.",
+    "proteinContent": 3,
+    "totalCalories": 210
+  },
+  {
+    "productId": "P005",
+    "title": "Orange Juice",
+    "price": 4.49,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "100% pure squeezed orange juice with no added sugar.",
+    "proteinContent": 2,
+    "totalCalories": 110
+  },
+  {
+    "productId": "P006",
+    "title": "Greek Yogurt",
+    "price": 1.59,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Thick and creamy Greek yogurt rich in protein.",
+    "proteinContent": 10,
+    "totalCalories": 130
+  },
+  {
+    "productId": "P007",
+    "title": "Almond Milk",
+    "price": 3.99,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Plant-based almond milk with a smooth nutty flavor.",
+    "proteinContent": 1,
+    "totalCalories": 60
+  },
+  {
+    "productId": "P008",
+    "title": "Cheddar Cheese Block",
+    "price": 5.49,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Aged cheddar cheese block, perfect for sandwiches.",
+    "proteinContent": 25,
+    "totalCalories": 400
+  },
+  {
+    "productId": "P009",
+    "title": "Brown Basmati Rice",
+    "price": 6.99,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Naturally aromatic brown basmati rice.",
+    "proteinContent": 4,
+    "totalCalories": 200
+  },
+  {
+    "productId": "P010",
+    "title": "Mixed Fruit Jam",
+    "price": 3.79,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Sweet and tangy mixed fruit jam made with real fruits.",
+    "proteinContent": 0,
+    "totalCalories": 90
+  },
+
+  {
+    "productId": "P011",
+    "title": "Granola Bars",
+    "price": 2.89,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Healthy granola bars packed with oats and honey.",
+    "proteinContent": 4,
+    "totalCalories": 190
+  },
+  {
+    "productId": "P012",
+    "title": "Spaghetti Pasta",
+    "price": 1.99,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Premium durum wheat spaghetti for authentic pasta dishes.",
+    "proteinContent": 6,
+    "totalCalories": 210
+  },
+  {
+    "productId": "P013",
+    "title": "Tomato Ketchup",
+    "price": 2.49,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Classic tomato ketchup made from ripe tomatoes.",
+    "proteinContent": 1,
+    "totalCalories": 20
+  },
+  {
+    "productId": "P014",
+    "title": "Organic Honey",
+    "price": 7.99,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Pure organic honey with a natural golden color.",
+    "proteinContent": 0,
+    "totalCalories": 304
+  },
+  {
+    "productId": "P015",
+    "title": "Cornflakes",
+    "price": 3.49,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Crunchy cornflakes perfect for breakfast.",
+    "proteinContent": 3,
+    "totalCalories": 150
+  },
+
+  {
+    "productId": "P016",
+    "title": "Banana Chips",
+    "price": 2.19,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Thinly sliced and crispy banana chips.",
+    "proteinContent": 1,
+    "totalCalories": 160
+  },
+  {
+    "productId": "P017",
+    "title": "Instant Noodles",
+    "price": 0.99,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Quick-cooking noodles with masala seasoning.",
+    "proteinContent": 4,
+    "totalCalories": 220
+  },
+  {
+    "productId": "P018",
+    "title": "Green Tea Bags",
+    "price": 4.99,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Refreshing green tea bags rich in antioxidants.",
+    "proteinContent": 0,
+    "totalCalories": 2
+  },
+  {
+    "productId": "P019",
+    "title": "Peanut Butter",
+    "price": 3.59,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Smooth peanut butter made from roasted peanuts.",
+    "proteinContent": 8,
+    "totalCalories": 180
+  },
+  {
+    "productId": "P020",
+    "title": "Frozen French Fries",
+    "price": 2.99,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Ready-to-fry crispy frozen french fries.",
+    "proteinContent": 3,
+    "totalCalories": 160
+  },
+
+  {
+    "productId": "P021",
+    "title": "Cola Soft Drink",
+    "price": 1.49,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Carbonated cola-flavored soft drink.",
+    "proteinContent": 0,
+    "totalCalories": 140
+  },
+  {
+    "productId": "P022",
+    "title": "Mango Juice",
+    "price": 2.79,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Thick mango juice with real pulp.",
+    "proteinContent": 1,
+    "totalCalories": 150
+  },
+  {
+    "productId": "P023",
+    "title": "Oats Porridge",
+    "price": 3.29,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Whole grain rolled oats for healthy breakfast.",
+    "proteinContent": 4,
+    "totalCalories": 120
+  },
+  {
+    "productId": "P024",
+    "title": "Protein Shake Bottle",
+    "price": 5.49,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Ready-to-drink chocolate protein shake.",
+    "proteinContent": 20,
+    "totalCalories": 250
+  },
+  {
+    "productId": "P025",
+    "title": "Strawberry Yogurt",
+    "price": 1.69,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Creamy yogurt blended with real strawberries.",
+    "proteinContent": 5,
+    "totalCalories": 120
+  },
+
+  {
+    "productId": "P026",
+    "title": "Whole Milk",
+    "price": 1.29,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Fresh whole milk rich in nutrients.",
+    "proteinContent": 8,
+    "totalCalories": 150
+  },
+  {
+    "productId": "P027",
+    "title": "Brown Eggs (12 pack)",
+    "price": 3.49,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Protein-rich farm fresh brown eggs.",
+    "proteinContent": 6,
+    "totalCalories": 72
+  },
+  {
+    "productId": "P028",
+    "title": "Frozen Pizza",
+    "price": 4.99,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Ready-to-bake cheese pizza with a crispy crust.",
+    "proteinContent": 12,
+    "totalCalories": 290
+  },
+  {
+    "productId": "P029",
+    "title": "Canned Sweet Corn",
+    "price": 1.39,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Sweet and juicy canned corn kernels.",
+    "proteinContent": 3,
+    "totalCalories": 95
+  },
+  {
+    "productId": "P030",
+    "title": "Black Beans",
+    "price": 2.29,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Protein-rich dried black beans.",
+    "proteinContent": 9,
+    "totalCalories": 220
+  },
+
+  {
+    "productId": "P031",
+    "title": "BBQ Chips",
+    "price": 2.19,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Smoky and tangy barbecue flavored chips.",
+    "proteinContent": 2,
+    "totalCalories": 150
+  },
+  {
+    "productId": "P032",
+    "title": "Nacho Cheese Tortilla Chips",
+    "price": 2.49,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Crispy tortilla chips with nacho cheese flavor.",
+    "proteinContent": 2,
+    "totalCalories": 140
+  },
+  {
+    "productId": "P033",
+    "title": "Hummus Dip",
+    "price": 3.99,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Creamy hummus made with chickpeas and tahini.",
+    "proteinContent": 4,
+    "totalCalories": 160
+  },
+  {
+    "productId": "P034",
+    "title": "Vanilla Ice Cream",
+    "price": 4.49,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Rich and creamy vanilla flavored ice cream.",
+    "proteinContent": 3,
+    "totalCalories": 210
+  },
+  {
+    "productId": "P035",
+    "title": "Cereal Chocolate Loops",
+    "price": 3.19,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Crunchy chocolate flavored breakfast cereal.",
+    "proteinContent": 2,
+    "totalCalories": 180
+  },
+
+  {
+    "productId": "P036",
+    "title": "Spicy Masala Chips",
+    "price": 2.29,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Tangy and spicy masala flavored chips.",
+    "proteinContent": 2,
+    "totalCalories": 155
+  },
+  {
+    "productId": "P037",
+    "title": "Mint Lemonade",
+    "price": 1.99,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Refreshing lemonade infused with mint.",
+    "proteinContent": 0,
+    "totalCalories": 120
+  },
+  {
+    "productId": "P038",
+    "title": "Energy Drink",
+    "price": 2.49,
+    "currency": "USD",
+    "unit": "can",
+    "description": "Carbonated energy drink with caffeine.",
+    "proteinContent": 0,
+    "totalCalories": 160
+  },
+  {
+    "productId": "P039",
+    "title": "Cheese Crackers",
+    "price": 1.99,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Baked cheese-flavored crackers.",
+    "proteinContent": 3,
+    "totalCalories": 140
+  },
+  {
+    "productId": "P040",
+    "title": "Brown Sugar",
+    "price": 2.99,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Raw brown sugar crystals for baking and beverages.",
+    "proteinContent": 0,
+    "totalCalories": 385
+  },
+
+  {
+    "productId": "P041",
+    "title": "Apple Juice",
+    "price": 3.09,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Fresh apple juice with no preservatives.",
+    "proteinContent": 0,
+    "totalCalories": 115
+  },
+  {
+    "productId": "P042",
+    "title": "Trail Mix",
+    "price": 4.79,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Nuts, seeds, and dry fruit mixed snack.",
+    "proteinContent": 6,
+    "totalCalories": 200
+  },
+  {
+    "productId": "P043",
+    "title": "Bread Sticks",
+    "price": 1.59,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Crunchy bread sticks seasoned lightly with salt.",
+    "proteinContent": 2,
+    "totalCalories": 120
+  },
+  {
+    "productId": "P044",
+    "title": "Coconut Water",
+    "price": 2.29,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Natural coconut water for instant hydration.",
+    "proteinContent": 0,
+    "totalCalories": 45
+  },
+  {
+    "productId": "P045",
+    "title": "Chocolate Milk",
+    "price": 1.89,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Sweetened chocolate flavored milk.",
+    "proteinContent": 7,
+    "totalCalories": 190
+  },
+
+  {
+    "productId": "P046",
+    "title": "Pasta Sauce",
+    "price": 2.79,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Tomato-based pasta sauce with Italian herbs.",
+    "proteinContent": 2,
+    "totalCalories": 90
+  },
+  {
+    "productId": "P047",
+    "title": "Butter Cookies",
+    "price": 2.09,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Rich butter cookies with a golden crisp.",
+    "proteinContent": 2,
+    "totalCalories": 210
+  },
+  {
+    "productId": "P048",
+    "title": "Raisins",
+    "price": 3.99,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Naturally sweet dried raisins.",
+    "proteinContent": 1,
+    "totalCalories": 299
+  },
+  {
+    "productId": "P049",
+    "title": "Walnuts",
+    "price": 7.49,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Premium quality shelled walnuts.",
+    "proteinContent": 5,
+    "totalCalories": 185
+  },
+  {
+    "productId": "P050",
+    "title": "Hazelnut Spread",
+    "price": 4.29,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Smooth chocolate hazelnut spread.",
+    "proteinContent": 3,
+    "totalCalories": 200
+  },
+
+  {
+    "productId": "P051",
+    "title": "Cinnamon Cereal",
+    "price": 3.49,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Crispy cinnamon flavored cereal.",
+    "proteinContent": 2,
+    "totalCalories": 180
+  },
+  {
+    "productId": "P052",
+    "title": "Tomato Soup Can",
+    "price": 1.89,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Rich tomato soup in a ready-to-heat can.",
+    "proteinContent": 3,
+    "totalCalories": 90
+  },
+  {
+    "productId": "P053",
+    "title": "Popcorn Kernels",
+    "price": 2.79,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Raw popcorn kernels ready to pop.",
+    "proteinContent": 4,
+    "totalCalories": 120
+  },
+  {
+    "productId": "P054",
+    "title": "Pineapple Juice",
+    "price": 3.19,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Fresh and tangy pineapple juice.",
+    "proteinContent": 1,
+    "totalCalories": 130
+  },
+  {
+    "productId": "P055",
+    "title": "Chewing Gum",
+    "price": 0.99,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Mint flavored chewing gum sticks.",
+    "proteinContent": 0,
+    "totalCalories": 5
+  },
+
+  {
+    "productId": "P056",
+    "title": "Dried Apricots",
+    "price": 4.89,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Soft and sweet dried apricot pieces.",
+    "proteinContent": 2,
+    "totalCalories": 240
+  },
+  {
+    "productId": "P057",
+    "title": "Protein Cookies",
+    "price": 2.99,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "High-protein cookies for healthy snacking.",
+    "proteinContent": 10,
+    "totalCalories": 250
+  },
+  {
+    "productId": "P058",
+    "title": "Fruit Candy",
+    "price": 1.29,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Colorful mixed fruit flavored candy.",
+    "proteinContent": 0,
+    "totalCalories": 140
+  },
+  {
+    "productId": "P059",
+    "title": "Flavored Ice Pops",
+    "price": 2.69,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Frozen fruit flavored ice pops.",
+    "proteinContent": 0,
+    "totalCalories": 60
+  },
+  {
+    "productId": "P060",
+    "title": "Instant Coffee",
+    "price": 4.49,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Premium freeze-dried instant coffee.",
+    "proteinContent": 1,
+    "totalCalories": 5
+  },
+
+  {
+    "productId": "P061",
+    "title": "Mixed Nuts",
+    "price": 6.99,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Assorted premium nuts including almonds and cashews.",
+    "proteinContent": 12,
+    "totalCalories": 220
+  },
+  {
+    "productId": "P062",
+    "title": "Cranberry Juice",
+    "price": 3.49,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Refreshing cranberry juice rich in antioxidants.",
+    "proteinContent": 0,
+    "totalCalories": 120
+  },
+  {
+    "productId": "P063",
+    "title": "Sugar Cookies",
+    "price": 2.29,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Soft sugar cookies coated with sweet crystals.",
+    "proteinContent": 2,
+    "totalCalories": 210
+  },
+  {
+    "productId": "P064",
+    "title": "Canned Pineapple",
+    "price": 2.39,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Sliced pineapple in sweet juice.",
+    "proteinContent": 1,
+    "totalCalories": 100
+  },
+  {
+    "productId": "P065",
+    "title": "Marshmallows",
+    "price": 1.69,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Soft and fluffy marshmallow pieces.",
+    "proteinContent": 1,
+    "totalCalories": 150
+  },
+
+  {
+    "productId": "P066",
+    "title": "Chocolate Wafer Rolls",
+    "price": 2.49,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Crispy wafer rolls filled with creamy chocolate.",
+    "proteinContent": 2,
+    "totalCalories": 170
+  },
+  {
+    "productId": "P067",
+    "title": "Sweetened Condensed Milk",
+    "price": 3.19,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Thick sweetened condensed milk for desserts.",
+    "proteinContent": 6,
+    "totalCalories": 250
+  },
+  {
+    "productId": "P068",
+    "title": "Black Tea Leaves",
+    "price": 2.99,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Strong and aromatic black tea leaves.",
+    "proteinContent": 0,
+    "totalCalories": 2
+  },
+  {
+    "productId": "P069",
+    "title": "Canned Beans",
+    "price": 1.89,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Soft canned beans ready to eat.",
+    "proteinContent": 7,
+    "totalCalories": 140
+  },
+  {
+    "productId": "P070",
+    "title": "Rice Crackers",
+    "price": 2.19,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Crunchy salty rice crackers.",
+    "proteinContent": 2,
+    "totalCalories": 110
+  },
+
+  {
+    "productId": "P071",
+    "title": "Sparkling Water",
+    "price": 0.99,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Carbonated clear sparkling water.",
+    "proteinContent": 0,
+    "totalCalories": 0
+  },
+  {
+    "productId": "P072",
+    "title": "Cocoa Powder",
+    "price": 3.99,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Unsweetened dark cocoa powder for baking.",
+    "proteinContent": 2,
+    "totalCalories": 40
+  },
+  {
+    "productId": "P073",
+    "title": "Tomato Puree",
+    "price": 2.29,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Thick tomato puree for cooking.",
+    "proteinContent": 1,
+    "totalCalories": 40
+  },
+  {
+    "productId": "P074",
+    "title": "Green Peas (Frozen)",
+    "price": 2.79,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Frozen green peas ready for cooking.",
+    "proteinContent": 5,
+    "totalCalories": 90
+  },
+  {
+    "productId": "P075",
+    "title": "Milk Chocolate Bar",
+    "price": 1.49,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Creamy milk chocolate bar.",
+    "proteinContent": 2,
+    "totalCalories": 200
+  },
+
+  {
+    "productId": "P076",
+    "title": "Ginger Ale",
+    "price": 1.79,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Ginger-flavored carbonated drink.",
+    "proteinContent": 0,
+    "totalCalories": 145
+  },
+  {
+    "productId": "P077",
+    "title": "Cashew Nuts",
+    "price": 8.49,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Premium whole cashews.",
+    "proteinContent": 5,
+    "totalCalories": 160
+  },
+  {
+    "productId": "P078",
+    "title": "Puffed Rice",
+    "price": 1.19,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Light and airy puffed rice.",
+    "proteinContent": 3,
+    "totalCalories": 90
+  },
+  {
+    "productId": "P079",
+    "title": "Chocolate Cupcakes",
+    "price": 3.49,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Soft cupcakes with chocolate frosting.",
+    "proteinContent": 2,
+    "totalCalories": 260
+  },
+  {
+    "productId": "P080",
+    "title": "Pickle Jar",
+    "price": 2.99,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Spicy mixed vegetable pickles.",
+    "proteinContent": 1,
+    "totalCalories": 25
+  },
+
+  {
+    "productId": "P081",
+    "title": "Sweet Corn Soup",
+    "price": 1.99,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Ready-to-make sweet corn soup mix.",
+    "proteinContent": 2,
+    "totalCalories": 80
+  },
+  {
+    "productId": "P082",
+    "title": "Banana Smoothie",
+    "price": 2.69,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Creamy banana smoothie made with fresh bananas.",
+    "proteinContent": 4,
+    "totalCalories": 190
+  },
+  {
+    "productId": "P083",
+    "title": "Veggie Chips",
+    "price": 2.59,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Mixed vegetable chips lightly salted.",
+    "proteinContent": 2,
+    "totalCalories": 130
+  },
+  {
+    "productId": "P084",
+    "title": "Almond Butter",
+    "price": 6.49,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Smooth butter made from roasted almonds.",
+    "proteinContent": 7,
+    "totalCalories": 180
+  },
+  {
+    "productId": "P085",
+    "title": "Organic Quinoa",
+    "price": 4.59,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Protein-rich organic quinoa grains.",
+    "proteinContent": 8,
+    "totalCalories": 160
+  },
+
+  {
+    "productId": "P086",
+    "title": "Frozen Berries Mix",
+    "price": 5.29,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Mixed frozen strawberries, blueberries, and raspberries.",
+    "proteinContent": 2,
+    "totalCalories": 70
+  },
+  {
+    "productId": "P087",
+    "title": "Soy Milk",
+    "price": 3.49,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Plant-based soy milk rich in protein.",
+    "proteinContent": 7,
+    "totalCalories": 130
+  },
+  {
+    "productId": "P088",
+    "title": "Sweet Corn Chips",
+    "price": 2.19,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Crunchy corn chips with mild seasoning.",
+    "proteinContent": 2,
+    "totalCalories": 150
+  },
+  {
+    "productId": "P089",
+    "title": "Milk Biscuits",
+    "price": 1.49,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Soft milk flavored biscuits.",
+    "proteinContent": 2,
+    "totalCalories": 160
+  },
+  {
+    "productId": "P090",
+    "title": "Roasted Chana",
+    "price": 1.99,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Crunchy roasted chickpeas high in protein.",
+    "proteinContent": 7,
+    "totalCalories": 130
+  },
+
+  {
+    "productId": "P091",
+    "title": "Chocolate Ice Pops",
+    "price": 2.49,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Frozen chocolate cream pops.",
+    "proteinContent": 2,
+    "totalCalories": 140
+  },
+  {
+    "productId": "P092",
+    "title": "Vanilla Cupcakes",
+    "price": 3.29,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Soft vanilla cupcakes with light frosting.",
+    "proteinContent": 2,
+    "totalCalories": 240
+  },
+  {
+    "productId": "P093",
+    "title": "Cumin Seeds",
+    "price": 2.59,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Aromatic cumin seeds used in cooking.",
+    "proteinContent": 1,
+    "totalCalories": 40
+  },
+  {
+    "productId": "P094",
+    "title": "Choco Chip Muffins",
+    "price": 3.49,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Moist muffins filled with chocolate chips.",
+    "proteinContent": 3,
+    "totalCalories": 260
+  },
+  {
+    "productId": "P095",
+    "title": "Lemon Soda",
+    "price": 1.39,
+    "currency": "USD",
+    "unit": "liter",
+    "description": "Tangy lemon flavored soda drink.",
+    "proteinContent": 0,
+    "totalCalories": 150
+  },
+
+  {
+    "productId": "P096",
+    "title": "Grilled Corn Chips",
+    "price": 2.09,
+    "currency": "USD",
+    "unit": "packet",
+    "description": "Crunchy chips with smoky grilled flavor.",
+    "proteinContent": 2,
+    "totalCalories": 145
+  },
+  {
+    "productId": "P097",
+    "title": "Herbal Tea Bags",
+    "price": 3.49,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Relaxing caffeine-free herbal tea blend.",
+    "proteinContent": 0,
+    "totalCalories": 1
+  },
+  {
+    "productId": "P098",
+    "title": "Fruit Jelly Cups",
+    "price": 2.19,
+    "currency": "USD",
+    "unit": "box",
+    "description": "Colorful assorted flavored jelly cups.",
+    "proteinContent": 0,
+    "totalCalories": 90
+  },
+  {
+    "productId": "P099",
+    "title": "Mango Yogurt",
+    "price": 1.79,
+    "currency": "USD",
+    "unit": "piece",
+    "description": "Delicious mango flavored yogurt.",
+    "proteinContent": 5,
+    "totalCalories": 130
+  },
+  {
+    "productId": "P100",
+    "title": "Pasta Macaroni",
+    "price": 1.69,
+    "currency": "USD",
+    "unit": "kg",
+    "description": "Soft elbow macaroni pasta made from wheat.",
+    "proteinContent": 6,
+    "totalCalories": 200
+  }
+]
