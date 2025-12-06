@@ -7,8 +7,8 @@
 // in this style we are defining the schema,
 // like it's type and query and mutations
 // gql` will convert it further
-
-const typeDef = gql`
+const { gql } = require("apollo-server-express");
+const typeDefs = gql`
   type Product {
     id: ID!
     productId: String!
@@ -37,8 +37,9 @@ const typeDef = gql`
     searchProducts(searchTerm: String!): [Product!]!
   }
 
-  type mutation {
+  type Mutation {
     addProduct(input: ProductInput!): Product!
-    updatePrice(productId: String!, price: String!): Product!
+    updateProduct(productId: String!, price: String!): Product!
   }
 `;
+module.exports = typeDefs;
