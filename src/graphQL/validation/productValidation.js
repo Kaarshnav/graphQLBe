@@ -1,6 +1,6 @@
 const { z } = require("zod");
 
-const productInputValidation = z.object({
+const AddProductInputValidation = z.object({
   productId: z.string().min(1),
   title: z.string().min(3),
   price: z.number().positive(),
@@ -10,4 +10,13 @@ const productInputValidation = z.object({
   proteinContent: z.number().optional(),
   totalCalories: z.number().optional(),
 });
-module.exports = productInputValidation;
+const updateProductInputValidation = z.object({
+  title: z.string().min(3).optional(),
+  price: z.number().positive().optional(),
+  currency: z.enum(["INR", "USD", "EUR"]).optional(),
+  unit: z.enum(["kg", "liter", "piece", "packet"]).optional(),
+  description: z.string().optional(),
+  proteinContent: z.number().optional(),
+  totalCalories: z.number().optional(),
+});
+module.exports = { AddProductInputValidation, updateProductInputValidation };

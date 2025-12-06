@@ -12,8 +12,9 @@
   "author": "Rajneesh Upreti",
   "license": "ISC",
   "dependencies": {
+    "@apollo/client": "^4.0.9",
     "@apollo/server": "^5.2.0",
-    "apollo-server-express": "^3.13.0",
+    "@as-integrations/express5": "^1.1.2",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "graphql": "^16.12.0",

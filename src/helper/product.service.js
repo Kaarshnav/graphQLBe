@@ -1,34 +1,35 @@
 const Product = require("../dataSource/models/ProductModel");
 
-const searchProductById = async () => {
+const searchProductById = async (productId) => {
   const productData = await Product.findOne({
-    productId: req.params.productId,
+    productId: productId,
   });
   return productData;
 };
 
-const seachProductByTerm = async () => {
+const seachProductByTerm = async (searchTerm) => {
   const productData = await Product.find({
-    title: { $regex: req.body.searchTerm, $options: "i" },
+    title: { $regex: searchTerm, $options: "i" },
   });
   return productData;
 };
 
-const updateProductById = async (req) => {
-  const currentProduct = Product({
-    productId: req.body.productId,
-    title: req.body.title,
-    price: req.body.price,
-    currency: req.body.currency,
-    unit: req.body.unit,
-    description: req.body.description,
-    proteinContent: req.body.proteinContent,
-    totalCalories: req.body.totalCalories,
-  });
-  await currentProduct.save();
+const updateProductById = async (productId, data) => {
+  // Find the existing product
+  const existingProduct = await searchProductById(productId);
+  if (!existingProduct) {
+    throw new Error(`Product with id ${productId} not found`);
+  }
+
+  // Merge new data into existing document
+  Object.assign(existingProduct, data);
+
+  // Save updated document
+  const updatedProduct = await existingProduct.save();
+
   return {
-    data: currentProduct,
-    message: " Product updated succesfully",
+    data: updatedProduct,
+    message: "Product updated successfully",
   };
 };
 module.exports = {

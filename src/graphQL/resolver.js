@@ -3,7 +3,10 @@ const {
   seachProductByTerm,
   updateProductById,
 } = require("../helper/product.service");
-const productInputValidation = require("./validation/productValidation");
+const {
+  AddProductInputValidation,
+  updateProductInputValidation,
+} = require("./validation/productValidation");
 
 const Query = {
   // Every resolver has this singnature
@@ -20,7 +23,7 @@ const Query = {
 const Mutation = {
   updateProduct: async (_, { productId, data }) => {
     // 🔥 Zod validation
-    const zodParsedData = productInputValidation.parse(data);
+    const zodParsedData = updateProductInputValidation.parse(data);
     //
     return await updateProductById(productId, zodParsedData);
   },
